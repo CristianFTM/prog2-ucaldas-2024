@@ -8,7 +8,7 @@ public class Animal {
     public String breed_animal = "";
 
     public void inputDataAnimal() {
-        System.out.println("Ingrese el numero del animal");
+        System.out.println("Ingrese el nombre del animal");
         name_animal = sc.nextLine();
 
         System.out.println("Ingrese el tipo del animal ej: gato, perro... ");
